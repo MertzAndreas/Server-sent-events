@@ -1,0 +1,49 @@
+/* Style for the form */
+#taskForm {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  #taskForm label {
+    display: inline-block;
+    width: 100px;
+    margin-right: 5px;
+  }
+  
+  #taskForm input,
+  #taskForm select {
+    width: 200px;
+    padding: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  
+  #taskForm input[type="submit"] {
+    margin-left: 105px;
+  }
+  
+  /* Style for the lists */
+  #List-Container {
+    display: inline-block;
+  }
+  
+  #ListsContainer {
+    display: flex;
+  }
+  
+  #TaskList {
+    padding: 10px;
+    margin-right: 20px;
+    border: 1px solid gray;
+    min-width: 200px;
+  }
+  
+  #TaskList li {
+    margin-bottom: 10px;
+    list-style-type: none;
+  }
+  
+  #TaskList li button {
+    margin-left: 10px;
+  }
+  
