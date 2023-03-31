@@ -1,5 +1,5 @@
-{"TaskName":"Simon","TaskAttributes":{"Description":"","Assignee":"","Priority":"low","StartDate":"","EndDate":"","Status":"To do"},"_id":"XKLLm6lB9WEJo5ev"}
-{"TaskName":"Sutter","TaskAttributes":{"Description":"","Assignee":"","Priority":"low","StartDate":"","EndDate":"","Status":"To do"},"_id":"aVM8JwX7qSeqyXxd"}
-{"TaskName":"Pikkemanden lars","TaskAttributes":{"Description":"","Assignee":"","Priority":"low","StartDate":"","EndDate":"","Status":"Done"},"_id":"rZdFAAsFrjOfbVQf"}
-{"TaskName":"Fisse","TaskAttributes":{"Description":"","Assignee":"","Priority":"low","StartDate":"","EndDate":"","Status":"Doing"},"_id":"zXhuV8YRDMuhYnX5"}
-{"$$deleted":true,"_id":"rZdFAAsFrjOfbVQf"}
+{"TaskName":"Mads er grim","TaskAttributes":{"Description":"","Assignee":"Tis","Priority":"low","StartDate":"2023-04-14","EndDate":"2023-04-22","Status":"To do"},"_id":"BG2SYlvN0bZ3AkcS"}
+{"TaskName":"Lort","TaskAttributes":{"Description":"","Assignee":"Daniel Bech","Priority":"low","StartDate":"2023-04-21","EndDate":"2023-04-30","Status":"To do"},"_id":"EiAIzFUQ6QRtJ98U"}
+{"TaskName":"Simon","TaskAttributes":{"Description":"","Assignee":"Penis","Priority":"low","StartDate":"2023-04-01","EndDate":"2023-04-05","Status":"To do"},"_id":"XKLLm6lB9WEJo5ev"}
+{"TaskName":"Fisse","TaskAttributes":{"Description":"","Assignee":"Kusse","Priority":"low","StartDate":"2023-04-20","EndDate":"2023-04-21","Status":"To do"},"_id":"viC0M1e4iQs2oiET"}
+{"TaskName":"Fisse","TaskAttributes":{"Description":"","Assignee":"Penis","Priority":"low","StartDate":"2023-04-11","EndDate":"2023-04-05","Status":"Doing"},"_id":"zXhuV8YRDMuhYnX5"}

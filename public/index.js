@@ -10,9 +10,9 @@ source.addEventListener("message", function getTasks(event) {
   const newListsContainer = document.createElement("div");
   newListsContainer.id = "ListsContainer";
 
-  LISTS.forEach((list, index) => {
+  LISTS.forEach((list) => {
       const listType = document.createElement("div");
-      listType.class = list;
+      listType.id = list;
       const newTaskList = document.createElement("ol");
       newTaskList.id = "TaskList";
       newTaskList.textContent = list;
